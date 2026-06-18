@@ -1,72 +1,70 @@
 <div align="center">
 
-# Olá, eu sou Leonardo Santos
+# Leonardo Santos
 
-### Desenvolvedor em formação, construindo aplicações web, mobile e desktop.
+### Analista de TI Júnior | Suporte de Sistemas, SQL e Automação
 
-Tenho foco em transformar estudos em projetos práticos, com atenção à organização, usabilidade e evolução constante do código. Atualmente trabalho com Kotlin, Java, C#, TypeScript e bancos de dados locais, explorando soluções para Android, APIs e sistemas desktop.
+Graduando em Análise e Desenvolvimento de Sistemas pela UNISANTA, com conclusão prevista para setembro de 2026. Desenvolvo soluções web e desktop, investigo problemas técnicos e automatizo rotinas no Windows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-lszdeveloping-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lszdeveloping)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adicionar%20link-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-</div>
-
----
-
-## Tech Stack
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend
-
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Mobile
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## Current Projects
-
-- Desenvolvendo projetos Android com Kotlin para consolidar conceitos de interfaces, lógica de negócio e organização de código.
-- Evoluindo APIs e aplicações em C# com foco em estrutura, rotas, dados e boas práticas de backend.
-- Mantendo projetos desktop em JavaFX, incluindo soluções com SQLite para controle e gerenciamento de informações.
-- Melhorando a apresentação dos meus repositórios com READMEs mais claros, descrições objetivas e projetos bem documentados.
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Leonardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lszdeveloping&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lszdeveloping&layout=compact&theme=github_dark&hide_border=true)
+[LinkedIn](https://www.linkedin.com/in/leonardo-santos-99516332a/) · [Projetos](#projetos-em-destaque) · [Contato](#contato)
 
 </div>
 
----
+## Sobre mim
 
-## Contact
+- Busco minha primeira oportunidade em Suporte de TI, Suporte de Sistemas, Análise de Sistemas ou Dados.
+- Tenho experiência prática com Windows, PowerShell, SQL, APIs REST, Git/GitHub e diagnóstico de software.
+- Construo aplicações com TypeScript, React, Electron, Laravel/PHP, Supabase e Java.
+- Estou disponível para oportunidades na Baixada Santista, em São Paulo com fretado ou em trabalho remoto.
 
-<div align="center">
+## Projetos em destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-lszdeveloping-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lszdeveloping)
+### [DevTools Hub](https://github.com/lszdeveloping/devtoolshub)
 
-</div>
+Aplicação desktop open source para detectar, instalar e gerenciar ferramentas de desenvolvimento no Windows. Inclui interface em Electron/React, CLI, automações em PowerShell, elevação UAC e distribuição por releases.
+
+**Resultado:** 88 estrelas e 7 forks no GitHub em 18/06/2026.
+
+`Electron` `React` `TypeScript` `PowerShell` `Vite` `Windows`
+
+### [HueTech](https://projeto-integrador-wheat.vercel.app/)
+
+Plataforma de comunicação acessível entre pessoas surdas e ouvintes. Fui responsável pelo backend em Laravel/PHP, pelo processamento e histórico das transcrições de áudio e pela integração com o VLibras.
+
+`Laravel` `PHP` `API REST` `VLibras` `LiveKit` `OpenAPI`
+
+### [Dog World Gestão](https://github.com/lszdeveloping/dogworldsantos)
+
+Sistema responsivo de gestão para creche canina, com cadastros, presenças, pagamentos, banho, dashboard, autenticação, persistência no Supabase e testes automatizados.
+
+[Demonstração](https://dogworldsantos.vercel.app)
+
+`Next.js` `TypeScript` `Supabase` `Vitest` `Zod`
+
+### [Gerenciador de Conduções](https://github.com/lszdeveloping/gerenciador-conducao)
+
+Sistema desktop para controlar benefícios de transporte de funcionários, com alertas, relatórios, exportação CSV e executável para Windows.
+
+`Java 17` `JavaFX` `SQLite` `Maven`
+
+### [Project Mauá](https://github.com/lszdeveloping/Project_Maua)
+
+Aplicação web para explorar pontos de interesse de Santos por meio de filtros, cards informativos e mapa interativo.
+
+[Demonstração](https://project-maua.vercel.app)
+
+`React` `TypeScript` `Leaflet` `Vite` `Tailwind CSS`
+
+## Tecnologias
+
+**Suporte e automação:** Windows, PowerShell, diagnóstico de problemas e documentação  
+**Sistemas e dados:** SQL, SQL Server, MySQL, SQLite, APIs REST e Supabase  
+**Desenvolvimento:** TypeScript, JavaScript, React, Electron, Laravel, PHP, Node.js e Java  
+**Ferramentas:** Git, GitHub, Vite, Maven e Vitest
+
+## Contato
+
+- LinkedIn: [linkedin.com/in/leonardo-santos-99516332a](https://www.linkedin.com/in/leonardo-santos-99516332a/)
+- E-mail: [leonardosilva2005@gmail.com](mailto:leonardosilva2005@gmail.com)
+- Localização: Santos, São Paulo, Brasil
+
