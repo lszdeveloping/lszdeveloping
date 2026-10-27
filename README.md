@@ -1,70 +1,84 @@
+![Leonardo Santos — Desenvolvimento de software, suporte de sistemas e automação. Python, SQL e TypeScript.](assets/profile-banner.svg)
+
 <div align="center">
 
-# Leonardo Santos
-
-### Analista de TI Júnior | Suporte de Sistemas, SQL e Automação
-
-Graduando em Análise e Desenvolvimento de Sistemas pela UNISANTA, com conclusão prevista para setembro de 2026. Desenvolvo soluções web e desktop, investigo problemas técnicos e automatizo rotinas no Windows.
-
-[LinkedIn](https://www.linkedin.com/in/leonardo-santos-99516332a/) · [Projetos](#projetos-em-destaque) · [Contato](#contato)
+**[LinkedIn](https://www.linkedin.com/in/leonardo-santos-99516332a/)** &nbsp;·&nbsp; **[E-mail](mailto:leonardosilva2005@gmail.com)** &nbsp;·&nbsp; **[Projetos](#projetos)**
 
 </div>
 
 ## Sobre mim
 
-- Busco minha primeira oportunidade em Suporte de TI, Suporte de Sistemas, Análise de Sistemas ou Dados.
-- Tenho experiência prática com Windows, PowerShell, SQL, APIs REST, Git/GitHub e diagnóstico de software.
-- Construo aplicações com TypeScript, React, Electron, Laravel/PHP, Supabase e Java.
-- Estou disponível para oportunidades na Baixada Santista, em São Paulo com fretado ou em trabalho remoto.
+Sou formado em **Análise e Desenvolvimento de Sistemas pela Unisanta** e busco uma oportunidade júnior em **desenvolvimento de software ou suporte de sistemas**. Construo aplicações web, ferramentas desktop e automações para necessidades do dia a dia.
 
-## Projetos em destaque
+- **Desenvolvimento:** criei um sistema de comandas em Python integrado ao banco de dados de um PDV, em que cada comanda corresponde a uma pré-venda.
+- **Suporte:** realizei consultas SQL, instalei o Windows, formatei computadores, resolvi falhas e treinei a equipe no uso do sistema. Continuo prestando assistência técnica eventual à operação.
+- **Projeto principal:** desenvolvo o [DevTools Hub](https://github.com/lszdeveloping/devtoolshub), uma ferramenta open source para preparar ambientes de desenvolvimento no Windows.
 
-### [DevTools Hub](https://github.com/lszdeveloping/devtoolshub)
+## Projetos
 
-Aplicação desktop open source para detectar, instalar e gerenciar ferramentas de desenvolvimento no Windows. Inclui interface em Electron/React, CLI, automações em PowerShell, elevação UAC e distribuição por releases.
+### DevTools Hub
 
-**Resultado:** 88 estrelas e 7 forks no GitHub em 18/06/2026.
+**Uma ferramenta para instalar e gerenciar o ambiente de desenvolvimento no Windows.**
 
-`Electron` `React` `TypeScript` `PowerShell` `Vite` `Windows`
+Aplicação desktop com detecção de ferramentas instaladas, interface gráfica, CLI, automações em PowerShell e logs para diagnóstico de falhas. Os instaladores estão disponíveis nas releases do projeto.
 
-### [HueTech](https://projeto-integrador-wheat.vercel.app/)
+`Electron` `React` `TypeScript` `PowerShell` `Windows`
 
-Plataforma de comunicação acessível entre pessoas surdas e ouvintes. Fui responsável pelo backend em Laravel/PHP, pelo processamento e histórico das transcrições de áudio e pela integração com o VLibras.
+**[Explorar o código →](https://github.com/lszdeveloping/devtoolshub)** &nbsp;·&nbsp; **[Baixar a versão mais recente →](https://github.com/lszdeveloping/devtoolshub/releases/latest)**
 
-`Laravel` `PHP` `API REST` `VLibras` `LiveKit` `OpenAPI`
+---
 
-### [Dog World Gestão](https://github.com/lszdeveloping/dogworldsantos)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Dog World Gestão</h3>
+      <p>Sistema web para creche canina com cadastros, presenças, pagamentos, dashboard, autenticação e persistência de dados.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code> <code>Vitest</code></p>
+      <p><a href="https://github.com/lszdeveloping/dogworldsantos"><strong>Código</strong></a> · <a href="https://dogworldsantos.vercel.app">Demonstração</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Gerenciador de Conduções</h3>
+      <p>Aplicação desktop para controlar pagamentos de transporte de funcionários, com alertas de vencimento, relatórios e exportação CSV.</p>
+      <p><code>Java</code> <code>JavaFX</code> <code>SQLite</code> <code>Maven</code></p>
+      <p><a href="https://github.com/lszdeveloping/gerenciador-conducao"><strong>Código e download</strong></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>HueTech / LiveCall</h3>
+      <p>Plataforma de comunicação acessível. Minha participação inclui o backend em Laravel/PHP e a integração de recursos de transcrição de áudio.</p>
+      <p><code>Laravel</code> <code>PHP</code> <code>APIs REST</code></p>
+      <p><a href="https://projeto-integrador-wheat.vercel.app/"><strong>Conhecer o projeto</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Project Mauá</h3>
+      <p>Guia de pontos de interesse de Santos, com filtros e mapa interativo para explorar a cidade.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Leaflet</code> <code>Vite</code></p>
+      <p><a href="https://github.com/lszdeveloping/Project_Maua"><strong>Código</strong></a> · <a href="https://project-maua.vercel.app">Demonstração</a></p>
+    </td>
+  </tr>
+</table>
 
-Sistema responsivo de gestão para creche canina, com cadastros, presenças, pagamentos, banho, dashboard, autenticação, persistência no Supabase e testes automatizados.
+## Conhecimentos
 
-[Demonstração](https://dogworldsantos.vercel.app)
+| Área | Tecnologias e prática |
+| --- | --- |
+| Desenvolvimento | Python, JavaScript, TypeScript, React, Next.js, Electron e Laravel/PHP |
+| Dados e integração | SQL, SQL Server, MySQL, SQLite, Supabase e APIs REST |
+| Suporte e automação | Windows, PowerShell, instalação de software, diagnóstico e orientação a usuários |
+| Ferramentas | Git, GitHub, Vite, Maven e Vitest |
 
-`Next.js` `TypeScript` `Supabase` `Vitest` `Zod`
+<details>
+<summary><strong>Formação complementar</strong></summary>
 
-### [Gerenciador de Conduções](https://github.com/lszdeveloping/gerenciador-conducao)
+**Programação e Robótica para Kids & Teens — SuperGeeks**  
+Fases 1, 3, 4 e 6 concluídas, com 24 horas por fase e **96 horas no total**.
 
-Sistema desktop para controlar benefícios de transporte de funcionários, com alertas, relatórios, exportação CSV e executável para Windows.
+</details>
 
-`Java 17` `JavaFX` `SQLite` `Maven`
+## Vamos conversar
 
-### [Project Mauá](https://github.com/lszdeveloping/Project_Maua)
+Busco oportunidades júnior para contribuir com desenvolvimento, suporte de sistemas e automação.
 
-Aplicação web para explorar pontos de interesse de Santos por meio de filtros, cards informativos e mapa interativo.
-
-[Demonstração](https://project-maua.vercel.app)
-
-`React` `TypeScript` `Leaflet` `Vite` `Tailwind CSS`
-
-## Tecnologias
-
-**Suporte e automação:** Windows, PowerShell, diagnóstico de problemas e documentação  
-**Sistemas e dados:** SQL, SQL Server, MySQL, SQLite, APIs REST e Supabase  
-**Desenvolvimento:** TypeScript, JavaScript, React, Electron, Laravel, PHP, Node.js e Java  
-**Ferramentas:** Git, GitHub, Vite, Maven e Vitest
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/leonardo-santos-99516332a](https://www.linkedin.com/in/leonardo-santos-99516332a/)
-- E-mail: [leonardosilva2005@gmail.com](mailto:leonardosilva2005@gmail.com)
-- Localização: Santos, São Paulo, Brasil
-
+**[LinkedIn](https://www.linkedin.com/in/leonardo-santos-99516332a/)** &nbsp;·&nbsp; **[leonardosilva2005@gmail.com](mailto:leonardosilva2005@gmail.com)**  
+Santos, São Paulo, Brasil.
