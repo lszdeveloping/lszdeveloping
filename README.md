@@ -28,6 +28,16 @@ Aplicação desktop com detecção de ferramentas instaladas, interface gráfica
 
 ---
 
+### Prátika Engenharia & Automação
+
+**Site institucional desenvolvido por mim para uma empresa de engenharia e automação industrial.**
+
+Apresentação dos serviços, clientes, normas e laudos, com solicitação de orçamento pelo WhatsApp. Site publicado em domínio próprio.
+
+**[Acessar o site →](https://www.pratikaautomacao.com.br/)**
+
+---
+
 <table>
   <tr>
     <td width="50%" valign="top">
