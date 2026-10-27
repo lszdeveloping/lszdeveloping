@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Leonardo Santos — Desenvolvimento, suporte e automação</title>
+  <desc id="desc">Formado em ADS pela Unisanta. Python, SQL e TypeScript. Disponível para oportunidades júnior.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101d32"/><stop offset="1" stop-color="#091421"/></linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#59ddc4"/><stop offset="1" stop-color="#909bff"/></linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#31506b" opacity="0.45"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="#101d32"/>
+  <rect x="880" y="0" width="400" height="340" fill="url(#dots)"/>
+  <circle cx="1190" cy="155" r="170" fill="none" stroke="#264755" stroke-width="1"/>
+  <circle cx="1190" cy="155" r="115" fill="none" stroke="#315d69" stroke-width="1"/>
+  <circle cx="1190" cy="155" r="60" fill="none" stroke="#59ddc4" stroke-opacity="0.35" stroke-width="1"/>
+  <path d="M1005 250h80V155h105V72h90" fill="none" stroke="#59ddc4" stroke-width="3"/>
+  <circle cx="1085" cy="250" r="5" fill="#59ddc4"/>
+  <circle cx="1190" cy="155" r="5" fill="#909bff"/>
+  <circle cx="1190" cy="72" r="5" fill="#909bff"/>
+  <rect x="56" y="45" width="4" height="20" rx="2" fill="#59ddc4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="74" y="60" font-size="14" font-weight="700" letter-spacing="2" fill="#93a9c0">DESENVOLVIMENTO · SUPORTE · AUTOMAÇÃO</text>
+    <text x="56" y="142" font-size="62" font-weight="700" letter-spacing="-1.5" fill="#f4f7fc">Leonardo Santos</text>
+    <text x="58" y="190" font-size="26" fill="#b9c9da">Python, SQL e TypeScript</text>
+    <text x="58" y="224" font-size="18" fill="#93a9c0">Formado em ADS pela Unisanta · Santos, SP</text>
+    <rect x="56" y="260" width="366" height="38" rx="19" fill="#132f35" stroke="#315c60"/>
+    <circle cx="78" cy="279" r="4" fill="#59ddc4"/>
+    <text x="94" y="285" font-size="16" font-weight="700" fill="#bcf2e7">Disponível para oportunidades júnior</text>
+  </g>
+</svg>
